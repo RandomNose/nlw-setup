@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é app para ajudar a rastrear os habitos.
 
-- [Acesse o projeto finalizado, online]()
+- [Visite o projeto online](https://randomnose.github.io/nlw-setup/
 
 
 
